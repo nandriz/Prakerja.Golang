@@ -3,7 +3,11 @@ package main
 import "fmt"
 
 func main() {
-	var age int = 100
-	fmt.Println(age)
+	var age uint == 10
+	for i :=1 ; i  <= 5; i++ {
+		fmt.Println(age)
+	} 
+
+	
 
 }
